@@ -1,4 +1,5 @@
-### Hi there 👋
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=SSlime-s&count_private=true&theme=vue)
+![GitHub Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SSlime-s&layout=compact&theme=vue)
 
 <!--
 **SSlime-s/SSlime-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
